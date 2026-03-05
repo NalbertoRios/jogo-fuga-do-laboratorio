@@ -1,0 +1,22 @@
+# const.py
+
+# Tela
+LARGURA = 800
+ALTURA = 600
+FPS = 60
+TITULO = "Fuga do Laboratório"
+
+# Cores
+PRETO = (0, 0, 0)
+BRANCO = (255, 255, 255)
+VERDE = (0, 255, 0)
+VERMELHO = (255, 0, 0)
+
+# Inimigos
+ENEMY_TAMANHO = 30
+ENEMY_VELOCIDADE = 3
+ENEMY_QUANTIDADE = 5
+
+# Jogador
+PLAYER_TAMANHO = 40
+PLAYER_VELOCIDADE = 5
